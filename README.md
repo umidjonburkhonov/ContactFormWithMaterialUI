@@ -41,14 +41,14 @@
    git clone https://github.com/umidjonburkhonov/ContactFormWithMaterialUI.git
    cd ContactFormWithMaterialUI
 
-Установить зависимости:
-       npm install
-Запустить локальный REST API:
-       npm run server
-Сервер запустится на http://localhost:4000
+* Установить зависимости:
+       * npm install
+* Запустить локальный REST API:
+       * npm run server
+* Сервер запустится на http://localhost:4000
 
-Запустить приложение:
-    npm run dev
+ * Запустить приложение:
+    * npm run dev
 
 
 Структура проекта
