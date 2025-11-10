@@ -42,35 +42,13 @@
    cd ContactFormWithMaterialUI
 
 * Установить зависимости:
-       * npm install
+     * npm install
 * Запустить локальный REST API:
-       * npm run server
+     * npm run server
 * Сервер запустится на http://localhost:4000
 
  * Запустить приложение:
     * npm run dev
-
-
-Структура проекта
-
-
-src/
-├── app/
-│   └── store.js
-├── components/
-│   ├── ContactCard.jsx
-│   ├── ContactForm.jsx
-│   ├── Header.jsx
-│   └── ...
-├── features/
-│   └── contacts/
-│       ├── contactsSlice.js
-│       └── contactsService.js
-├── pages/
-│   ├── ContactsPage.jsx
-│   ├── AddContactPage.jsx
-│   └── EditContactPage.jsx
-└── App.jsx
 
 
 Автор
